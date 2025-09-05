@@ -26,15 +26,16 @@
 //     console.log("yra");
 // }
    // Створіть дві змінні, в яких буде зберігатись ваш вік і вік вашого друга. Сумму двох змінних виведіть на екран за допомогою console.log().
-const  meAge = 15
-console.log(meAge);
+// const  meAge = 15
+// console.log(meAge);
 
- const frendAge = 18
-console.log(frendAge);
-const allAge = meAge + frendAge
-console.log(allAge);
+//  const frendAge = 18
+// console.log(frendAge);
+// const allAge = meAge + frendAge
+// console.log(allAge);
 
 
-const cantry = prompt("cantry")
-cantry city = prompt("city")
-console.log("Вы живете в",city," вы знаходетесь "б cantry);
+// const cantry = prompt("cantry")
+// cantry city = prompt("city")
+// console.log("Вы живете в",city," вы знаходетесь "б cantry);
+ 
