@@ -32,10 +32,33 @@
 
 
 
-const message = "Lorem  sit ipsum dolor   sit amet consectetur adipisicing elit. Sit temporibus culpa sequi necessitatibus. Aliquid temporibus eaque optio ipsam mollitia repellendus similique officiis, cumque ut modi, quaerat magni, sint dolores voluptate?"
-// console.log(message.indexOf("sit"));
-// console.log(message.includes("Galua"));
-console.log(message.startsWith("Lorem"));
-console.log(message.endsWith("?"));
+// const message = "Lorem  sit ipsum dolor   sit amet consectetur adipisicing elit. Sit temporibus culpa sequi necessitatibus. Aliquid temporibus eaque optio ipsam mollitia repellendus similique officiis, cumque ut modi, quaerat magni, sint dolores voluptate?"
+// // console.log(message.indexOf("sit"));
+// // console.log(message.includes("Galua")); есть ілі нет
+// console.log(message.startsWith("Lorem"));
+// console.log(message.endsWith("?"));
 
+// let namber ="7";
+//  const agent = namber.padStart(10,"0")
+// console.log(agent);
+// const userNamber = "0931234567"
+// const formatingNamber = userNamber.padStart(15,"+(38)")
+// console.log(formatingNamber);
+// // +(38)0931234567
+// const lastName = "Ftes";
+// const corectName = lastName.replace(lastName[0],"S")
+// console.log(corectName);
 
+// const language = "Javascript";
+// const rezalt = language.substring(0,4)
+// console.log(rezalt);
+
+// const  lorem = "Lorem  sit ipsum dolor   sit amet consectetur adipisicing elit. Sit temporibus culpa sequi nece";
+// const res = lorem.slice(0 ,40)
+// console.log(res);
+
+const name = "Galua";
+const uppName = name.toUpperCase()
+console.log(uppName);
+
+// Створити змінну, яка містить рядок з вашим ім'ям. Використовуючи метод .toUpperCase(), перетворити рядок у верхній регістр та вивести результат в консоль.
