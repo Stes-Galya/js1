@@ -36,14 +36,56 @@
 
 
 
-console.log(!Boolean(true));
-console.log(99 && 21 || 125 && !false);
+// console.log(!Boolean(true));
+// console.log(99 && 21 || 125 && !false);
 
 
 
 
+// if (вираз який має визначати тру або фолс){
+// якщо вираз призведен до тру то ми заходимо в тило іф 
+// }
+
+// if (false) {
+//     console.log("ура");
+    
+// }
+
+// const age = 18;
+// const userAge = Number (prompt(" Скількі вам років "))
+// // console.log(userAge);
+// // console.log(typeof userAge);
+// if (userAge>=age){
+// console.log(" Вхід дозволено ");
+
+// }else{
+//     console.log("Вхід заборонено");
+    
+// }
+// const userAge = Number (prompt(" Скількі вам років "));
+// let rezalt = "";
+// if (userAge<18) {
+//     rezalt = "Не повнолітній"
+
+// }else if(userAge>= 18 && userAge<60 ){
+//     rezalt = " Дорослий "
+// }else {
+//     rezalt = "Старий"
+// }
+// console.log(rezalt);
+
+// const rezalt2 = (10 < 5)?"Так":"ні"
+// console.log(rezalt2);
 
 
+// let  totalSpend = 1000;
+// let payment = 100;
+// let discount = 0;
 
+// if( totalSpend > 100 && totalSpend < 5000){
+//     discount =2
+// }else if ( totalSpend > = 1000 && totalSpend <5000){
+//     discount = 5
+// } else if ( totalSpend > = 5000){
 
-
+// }
